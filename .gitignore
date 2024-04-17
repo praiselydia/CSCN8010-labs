@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 
 class_notes.txt
+data
